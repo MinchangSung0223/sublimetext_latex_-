@@ -4,12 +4,16 @@
 https://www.sublimetext.com/3
 Windows 64bit 선택(OS에 맞는 버전 선택 )
 ![image](https://user-images.githubusercontent.com/53217819/147725460-a333b986-149e-4ab1-9456-a3203663e15e.png)
+다운로드 후 설치 진행 Next
 ![image](https://user-images.githubusercontent.com/53217819/147725515-926ef88c-8cdd-4079-8a76-eca5dc5f312d.png)
+Install
 ![image](https://user-images.githubusercontent.com/53217819/147725531-f8e30749-6858-4094-8dfd-c6be65ae2c28.png)
 
 ## install Miktex
 https://miktex.org/download
 ![image](https://user-images.githubusercontent.com/53217819/147725733-c6da59d9-3005-4c77-9006-3170f4aed9f9.png)
+
+다운로드 후 실행하고 Next누르고 Install
 
 ## install SumatraPDF
 https://www.sumatrapdfreader.org/download-free-pdf-viewer
@@ -19,6 +23,7 @@ https://www.sumatrapdfreader.org/download-free-pdf-viewer
 ![image](https://user-images.githubusercontent.com/53217819/147726018-c5db3033-81db-41f3-bee4-9f62066aeaaa.png)
 
 ![image](https://user-images.githubusercontent.com/53217819/147726030-37d85879-dfec-453c-92f9-264bc04f7a6d.png)
+옵션에서 설치폴더 변경 C드라이브의 Program Files로 
 
 ![image](https://user-images.githubusercontent.com/53217819/147726056-ae44bcec-c7de-4035-894c-9d1f12f0d3de.png)
 
