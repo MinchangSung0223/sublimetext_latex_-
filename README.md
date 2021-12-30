@@ -52,3 +52,7 @@ install control package를 입력하고 설치 진행
 
 다음과 같이 나오면 성공
 ![image](https://user-images.githubusercontent.com/53217819/147725882-ded14faa-0ae3-462a-8881-38c9f5fa909f.png)
+
+## 사용법
+Ctrl+B를 누르면 빌드 자동으로 파일이 나옴
+![image](https://user-images.githubusercontent.com/53217819/147726201-cff16b80-05bd-4de7-b51d-01ef1ba1622e.png)
