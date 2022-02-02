@@ -70,13 +70,16 @@ Ctrl+B를 누르면 빌드 자동으로 파일이 나옴
 
 ## ERROR
 
-# nanummjmd4 에러 발생 시 
+### nanummjmd4 에러 발생 시 
 
 시작->MikTex Console 실행
+
 ![image](https://user-images.githubusercontent.com/53217819/152146968-44c43b3e-cae2-46d9-be56-ef02f7798d05.png)
 
 Switch to MikTex administrator mode 선택
 재시작 후에 Updates 클릭
+
 ![image](https://user-images.githubusercontent.com/53217819/152147075-a595a644-b08f-420f-9c08-b91544c91f5a.png)
+
 Check for updates 클릭 Update now 클릭 
 SublimeText3 다시 실행-> 빌드 진행
